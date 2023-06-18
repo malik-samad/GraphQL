@@ -1,0 +1,28 @@
+{
+  "name": "graphql-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malik-samad/GraphQL-Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malik-samad/GraphQL-Tutorial/issues"
+  },
+  "homepage": "https://github.com/malik-samad/GraphQL-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "graphql": "^16.6.0",
+    "graphql-helix": "^1.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
